@@ -8,3 +8,15 @@ Python Modules I used in this project:
 - Time
 
 I used Gecko driver to automate firefox.
+
+clone the package:
+
+```git clone https://github.com/davdtheemonk/SpotifyAutomation.git```
+
+Usage:
+
+input neccessary login details where required
+
+```cd SpotifyAutomation ```
+
+```python3 SpotifyAuto.py```
