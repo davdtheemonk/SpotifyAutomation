@@ -7,4 +7,4 @@ Python Modules I used in this project:
 - Selenium
 - Time
 
-Gecko driver used as the web driver for firefox 
+I used Gecko driver to automate firefox.
