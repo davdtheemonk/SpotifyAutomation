@@ -3,8 +3,8 @@
 
 from selenium import webdriver
 from time import sleep
-
-browser = webdriver.Firefox(executable_path=r"C:\Users\user\Desktop\code!code!code!\Instagrambot\geckodriver")
+#Your gecko/chrome driver directory goes here
+browser = webdriver.Firefox(executable_path=r"")
 browser.implicitly_wait(5)
 
 class Home():
