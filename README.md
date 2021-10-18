@@ -14,6 +14,7 @@ clone the package:
 ```git clone https://github.com/davdtheemonk/SpotifyAutomation.git```
 
 Usage:
+input the path to your gecko driver (firefox) or chrome web driver for chrome.
 
 input neccessary login details where required
 
